@@ -1,4 +1,4 @@
-console.log("hola mundo");
+console.log("Aplicación lista");
 
 const saludo = (nombre) => {
     return `Hola, ${nombre}`;
