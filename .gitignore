@@ -1,0 +1,14 @@
+# Dependencias generadas con npm install
+node_modules/
+
+# Variables de entorno y credendiales
+.env
+.env.local
+
+# Archivos que genera el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Carpetas de compilación
+dist/
+build/
